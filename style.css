@@ -1,0 +1,63 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+section{
+    background-image: url(wait_by_aenami_ddwnuly-pre.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 710px;
+}
+
+.box_cal{
+    background-color: rgba(152, 207, 209, 0.486);
+    /*z-index: -11;
+    */width: 39%;
+    position: absolute;
+    top: 24%;
+    left: 30%;
+    padding: 8% 2%;
+    /*margin: 10% 30%;
+    */text-align: center;
+    border-radius: 20px ;
+    -webkit-border-radius: 20px ;
+    -moz-border-radius: 20px ;
+    -ms-border-radius: 20px ;
+    -o-border-radius: 20px ;
+    filter:drop-shadow(10px 12px rgba(255, 127, 80, 0.781)) ;
+    -webkit-filter:drop-shadow(8px 10px coral) ;
+}
+
+
+input{
+    border-radius: 10px ;
+    -webkit-border-radius: 10px ;
+    -moz-border-radius: 10px ;
+    -ms-border-radius: 10px ;
+    -o-border-radius: 10px ;
+    padding: 2%;
+    border: 1px solid coral;
+}
+
+
+.btn{
+   padding: 2%;
+   background-color: rgb(202, 111, 77);
+   border: none;
+   cursor: pointer;
+   color: rgb(25, 25, 41);
+   font-weight: bold;
+   border-radius:8px;
+   -moz-border-radius:8px;
+   -ms-border-radius:8px;
+   -o-border-radius:8px;
+   -webkit-border-radius:8px;
+}
+
+
+
+
